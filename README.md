@@ -19,6 +19,8 @@ i put screenshots here
 <img width="1531" height="792" alt="Capture d&#39;écran 2026-06-19 155541" src="https://github.com/user-attachments/assets/2f1a4004-eae5-4de1-8fd9-2d3ff2d6685f" />
 <img width="1518" height="927" alt="Capture d&#39;écran 2026-06-18 205016" src="https://github.com/user-attachments/assets/9bb394e7-23d3-4758-9747-0b010af1f080" />
 <img width="1490" height="748" alt="Capture d&#39;écran 2026-06-21 145016" src="https://github.com/user-attachments/assets/b7978b19-60a9-474c-91ee-6017ffc3eecd" />
+<img width="1592" height="973" alt="Capture d&#39;écran 2026-06-20 204008" src="https://github.com/user-attachments/assets/3e768da2-a79f-480c-96e0-c4e2a9e4fa78" />
+<img width="1271" height="827" alt="Capture d&#39;écran 2026-06-21 145100" src="https://github.com/user-attachments/assets/8e6c00ef-8c7f-46a8-9d73-482ec06cd322" />
 
 ---
 
