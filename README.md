@@ -1,4 +1,4 @@
-# PicGrab (i asked an ai to tell me how to make this readme but i wrote everything by my self)
+# PicGrab
 this is a simple Chrome extension that scan webpage and show images and let u download images one by one or all at once.
 
 ---
@@ -78,3 +78,4 @@ PicGrab/
 ## Made by
 
 kispox — built for [Hack Club Carnival](https://carnival.hackclub.com)
+(i asked an ai to tell me how to make this readme but i wrote everything by my self)
