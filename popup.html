@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- i copypasted this meta thing from w3school not sure if i need it, but its here -->
+  <!-- no title needed i think its a popup -->
+
+  <style>
+
+    body {
+      width: 310px;
+      font-family: Arial, sans-serif;
+      margin: 10px;
+      background: #fff;
+      color: #333;
+    }
+
+    /* TODO make it look better someday maybe add dark mode idk */
+
+    h3 {
+      text-align: center;
+      margin-bottom: 12px;
+    }
+
+    button {
+        width: 100%;
+        padding: 10px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 14px;
+    }
+
+    button:hover { background: #0056b3; }
+
+    #filterRow {
+      margin-top: 10px;
+      font-size: 13px;
+    }
+
+    #imgCount {
+      font-size: 12px;
+      color: #888;
+      margin-top: 6px;
+      /* margin-bottom: 4px; */
+    }
+
+    #dlAllBtn {
+      margin-top: 8px;
+      background: #6c757d;
+      font-size: 13px;
+      padding: 8px;
+    }
+    #dlAllBtn:hover { background: #5a6268; }
+
+    #results {
+      margin-top: 10px;
+      max-height: 340px;
+      overflow-y: auto;
+    }
+
+    .image-card {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 8px;
+      padding: 5px;
+      border: 1px solid #ddd;
+      /* border-radius: 3px; maybe later */
+    }
+
+    .image-card img {
+        width: 75px;
+        height: 55px;
+        object-fit: cover;
+    }
+
+    .broken-img {
+      width: 75px;
+      height: 55px;
+      background: #eee;
+      font-size: 10px;
+      color: #999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .dl-btn {
+      width: auto; /* overrides the 100% from button */
+      padding: 6px 10px;
+      background: #28a745;
+      font-size: 12px;
+      border-radius: 3px;
+    }
+
+    .dl-btn:hover { background: #218838; }
+
+  </style>
+</head>
+<body>
+
+  <h3>PicGrab</h3>
+
+  <button id="scanBtn">Scan Page</button>
+
+  <div id="filterRow">
+      <input type="checkbox" id="hideSmall">
+      <label for="hideSmall">hide small images (icons etc)</label>
+  </div>
+
+  <div id="imgCount"></div>
+
+  <!-- js show this when there are images -->
+  <button id="dlAllBtn" style="display:none">Download All</button>
+
+  <div id="results"></div>
+
+<script src="popup.js"></script>
+</body>
+</html>

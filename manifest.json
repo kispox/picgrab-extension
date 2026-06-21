@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "PicGrab",
+  "version": "1.1",
+  "description": "scan web page and give u the images in lists for downloading, i think i cooked this, by kispox",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "downloads"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
