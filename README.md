@@ -15,7 +15,7 @@ this is a simple Chrome extension that scan webpage and show images and let u do
 
 ## Screenshots
 
-<img width="1518" height="927" alt="Capture d&#39;écran 2026-06-18 205016" src="https://github.com/user-attachments/assets/9bb394e7-23d3-4758-9747-0b010af1f080" />
+<img width="1549" height="1004" alt="Capture d&#39;écran 2026-06-21 150519" src="https://github.com/user-attachments/assets/ae23f513-29c8-4f86-bcce-7c756c517731" />
 <img width="1186" height="661" alt="Capture d&#39;écran 2026-06-21 150346" src="https://github.com/user-attachments/assets/8886842f-d048-4c52-abef-ce8a358aac3f" />
 <img width="1490" height="748" alt="Capture d&#39;écran 2026-06-21 145016" src="https://github.com/user-attachments/assets/b7978b19-60a9-474c-91ee-6017ffc3eecd" />
 <img width="1592" height="973" alt="Capture d&#39;écran 2026-06-20 204008" src="https://github.com/user-attachments/assets/3e768da2-a79f-480c-96e0-c4e2a9e4fa78" />
